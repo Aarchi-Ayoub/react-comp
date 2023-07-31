@@ -1,0 +1,29 @@
+{
+  "name": "react-comp",
+  "version": "1.0.0",
+  "description": "simple react package",
+  "main": "index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aarchi-Ayoub/react-comp.git"
+  },
+  "author": "Zerrhouni Aarchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aarchi-Ayoub/react-comp/issues"
+  },
+  "homepage": "https://github.com/Aarchi-Ayoub/react-comp#readme",
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
+}
